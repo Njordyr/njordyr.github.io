@@ -134,6 +134,7 @@ header .header-brand {
     text-align: left;
     width: 200px;
     height: 85px;
+    margin-bottom: 50px;
 }
 
 header nav ul {
